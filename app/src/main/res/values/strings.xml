@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="text.Cant">Ingresa la cantidad</string>
+    <string name="hint.Cant">Escribe la cantidad aqui</string>
+</resources>
